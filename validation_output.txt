@@ -1,0 +1,44 @@
+Fetching MLS webpage...
+HTML length: 496299
+Extracting website events...
+Reading feed file...
+
+================================================
+VALIDATION REPORT
+================================================
+Website events found: 26
+PutDataRequest items found: 1451
+Matched items: 18
+Missing website events in XML: 8
+
+PASS Items:
+PASS: (43')
+      XML: 2025-10-19T00:12:15.435+02:00 | 804100000014
+PASS: (45'+6')
+      XML: 2025-10-19T00:24:56.476+02:00 | 804100000167
+PASS: (67')
+      XML: 2025-10-19T00:14:26.745+02:00 | 804100000052
+PASS: (90'+1')
+      XML: 2025-10-19T00:49:01.415+02:00 | 804100000467
+PASS: 22'
+      XML: 2025-10-19T00:12:23.924+02:00 | 804100000016
+PASS: 35'
+      XML: 2025-10-19T00:12:15.435+02:00 | 804100000014
+PASS: 45'
+      XML: 2025-10-19T00:13:35.459+02:00 | 804100000038
+PASS: +6'
+      XML: 2025-10-19T00:12:07.652+02:00 | 804100000011
+PASS: 56'
+      XML: 2025-10-19T00:12:19.956+02:00 | 804100000015
+PASS: 63'
+      XML: 2025-10-19T00:13:16.324+02:00 | 804100000030
+
+FAIL Items:
+FAIL: (35', 63' PK, 81')
+FAIL: Goal: T. Segovia vs. NSH, 90+1'
+FAIL: Goal: L. Messi vs. NSH, 81'
+FAIL: Goal: B. Rodríguez vs. NSH, 67'
+FAIL: PK Goal: L. Messi vs. NSH, 63'
+FAIL: Goal: J. Shaffelburg vs. MIA, 45+6'
+FAIL: Goal: S. Surridge vs. MIA, 43'
+FAIL: Goal: L. Messi vs. NSH, 35'
